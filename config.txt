@@ -1,0 +1,18 @@
+!! DONT FORGET TO SAVE THIS FILE AFTER CHANGING THE CONFIGS !!
+
+Target Folder Path = C:\Users\johan\Documents\UC\Sem 4\OOP Asdos\The Students\Week 7 Checking
+
+!! Set the directory, copy paste the folder path where the .zip file is located there !!
+
+
+Check all students = false
+	!! If set to true -> will check all students 			!!
+	!!	  false -> check only the NIMs of those found below	!!
+
+
+!! uses .contains, ignore if check all is true else list em down here !!
+!! set every NIM on a new line !!
+
+Students to Check
+706012310050
+
